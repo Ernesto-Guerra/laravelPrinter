@@ -9,6 +9,7 @@ use Illuminate\Http\Request;
 
 class PrinterController extends Controller
 {
+	//comentario de prueba
     public function reprint(Request $request)
     {                
         try {
